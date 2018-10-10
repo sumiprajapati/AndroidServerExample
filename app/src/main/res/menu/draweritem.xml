@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:id="@+id/drawer_home"/>
+    <item android:title="About Us"
+        android:id="@+id/drawer_aboutus"/>
+    <item android:title="Swipable tab"
+        android:id="@+id/drawer_swipabletab"/>
+
+
+</menu>
